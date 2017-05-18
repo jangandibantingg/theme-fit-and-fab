@@ -1,0 +1,599 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+		<title>Fit-Fab</title>
+		<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+		<link href='https://fonts.googleapis.com/css?family=Raleway:400,300,500,600,700,900,800%7CRoboto:400,300,500,700,900%7COswald:400,700,300%7CMontserrat' rel='stylesheet' type='text/css'>
+		<link rel="stylesheet" type="text/css" href="assets/css/bootstrap.css" media="screen">
+		<link rel="stylesheet" type="text/css" href="assets/css/bootstrap-theme.css" media="screen">
+		<link rel="stylesheet" type="text/css" href="assets/css/font-awesome.min.css" media="screen">
+		<link rel="stylesheet" type="text/css" href="assets/css/simple-line-icons.css" media="screen">
+		<link href="assets/css/owl.carousel.css" type="text/css" rel="stylesheet" media="screen">
+		<link rel="stylesheet" type="text/css" href="assets/css/global.css" media="screen">
+		<link href="assets/css/settings.css" type="text/css" rel="stylesheet" media="screen">
+		<link href="assets/css/layers.css" type="text/css" rel="stylesheet" media="screen">
+		<link rel="stylesheet" type="text/css" href="assets/css/style.css" media="screen">
+		<link rel="stylesheet" type="text/css" href="assets/css/responsive.css" media="screen">
+		<link rel="stylesheet" type="text/less" href="assets/css/skin.less" media="screen">
+
+		<!--[if lt IE 9]>
+		<script src="assets/js/html5shiv.min.js"></script>
+		<![endif]-->
+
+	</head>
+	<body>
+		<div id="loading">
+			<div id="loading-center">
+				<div id="loading-center-absolute">
+					<div class="object" id="object_one"></div>
+					<div class="object" id="object_two"></div>
+					<div class="object" id="object_three"></div>
+
+				</div>
+			</div>
+
+		</div>
+		<!--Page Wrapper Start-->
+		<div id="wrapper" class="homepage-2 about_us">
+			<!--Header Section Start-->
+			<header id="header" class="header-two">
+				<div class="container">
+
+					<div class="top-header">
+						<div class="row">
+							<div class="col xs-12 col-sm-7 copy-right">
+								<p>
+									OPENING HOURS : MON - SAT <span>6AM - 9PM</span>, SUN <span>8AM - 6PM</span>
+								</p>
+							</div>
+							<div class="col-xs-12 col-sm-5 col-md-4 col-lg-3 pull-right ">
+
+								<ul class="media-wrap clearfix">
+									<li>
+										<a href="#" class="facebook"><i class="fa fa-facebook"></i></a>
+									</li>
+									<li>
+										<a href="#" class="facebook"><i class="fa fa-twitter"></i></a>
+									</li>
+									<li>
+										<a href="#" class="facebook"><i class="fa fa-rss"></i></a>
+									</li>
+									<li>
+										<a href="#" class="facebook"><i class="fa fa-google-plus"></i></a>
+									</li>
+
+									<li>
+										<a href="#" class="facebook"><i class="fa fa-youtube-play"></i></a>
+									</li>
+									<li>
+										<a href="#" class="facebook"><i class="fa fa-search"></i></a>
+									</li>
+								</ul>
+
+							</div>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-xs-6 col-sm-4 logo-wrap">
+							<a href="index.html" class="logo"> <img src="assets/images/home-2_logo.png" alt="logo" /> <span>HEALTH &amp; FITNESS</span> </a>
+							<div class="calling-contact">
+								<span>call us now</span>
+								<a href="#">215 123 4567</a>
+							</div>
+						</div>
+						<div class="col-xs-6 col-sm-8 pull-right mobile-static">
+							<nav class="navbar">
+
+								<!-- Brand and toggle get grouped for better mobile display -->
+								<div class="navbar-header">
+									<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+										<span class="sr-only">Toggle navigation</span>
+										<span class="icon-bar"></span>
+										<span class="icon-bar"></span>
+										<span class="icon-bar"></span>
+									</button>
+
+								</div>
+
+								<!-- Collect the nav links, forms, and other content for toggling -->
+								<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+									<ul class="nav navbar-nav">
+										<li>
+											<a href="#">Home</a>
+
+											<ul class="drop-down">
+												<li>
+													<a href="index.html">homepage</a>
+												</li>
+												<li>
+													<a href="homepage-one.html">homepage-one</a>
+												</li>
+												<li>
+													<a href="homepage-two.html">homepage-two</a>
+												</li>
+												<li>
+													<a href="homepage-three.html">homepage-three</a>
+												</li>
+											</ul>
+										</li>
+										<li class="active">
+											<a href="about-us.html">About</a>
+										</li>
+										<li>
+											<a href="#">Classes</a>
+											<ul class="drop-down">
+												<li>
+													<a href="classes.html">classes</a>
+												</li>
+												<li>
+													<a href="class-detail.html">class-detail</a>
+												</li>
+
+											</ul>
+										</li>
+										<li>
+											<a href="schedule.html">Schedule</a>
+										</li>
+										<li>
+											<a href="#">Trainers</a>
+											<ul class="drop-down">
+												<li>
+													<a href="trainers.html">Trainers</a>
+												</li>
+												<li>
+													<a href="trainer-detail.html">trainers-detail</a>
+												</li>
+
+											</ul>
+										</li>
+										<li>
+											<a href="#">Pages</a>
+											<ul class="drop-down">
+												<li>
+													<a href="blog.html">blog</a>
+												</li>
+												<li>
+													<a href="blog-details.html">blog-detail </a>
+												</li>
+												<li>
+													<a href="event-details.html">event-detail </a>
+												</li>
+												<li>
+													<a href="event-listing.html">event-listing</a>
+												</li>
+												<li>
+													<a href="pricing-packages.html">pricing-packages</a>
+												</li>
+												<li>
+													<a href="short-code.html">shortcode</a>
+												</li>
+												<li>
+													<a href="faq.html">faq</a>
+												</li>
+												<li>
+													<a href="404.html">404</a>
+												</li>
+
+											</ul>
+										</li>
+										<li>
+											<a href="contact-us.html">Contact</a>
+										</li>
+										<li>
+											<a href="#">Shop</a>
+											<ul class="drop-down">
+
+												<li>
+													<a href="shop-details.html">shop-detail</a>
+												</li>
+												<li>
+													<a href="shop-listing.html">shop-listing</a>
+												</li>
+												<li>
+													<a href="shopping-cart.html">shopping-cart</a>
+												</li>
+												<li>
+													<a href="checkout.html">checkout</a>
+												</li>
+
+											</ul>
+										</li>
+										<li class="cart">
+											<span aria-hidden="true" class="icon-basket-loaded"></span>
+										</li>
+
+									</ul>
+
+								</div><!-- /.navbar-collapse -->
+
+							</nav>
+						</div>
+
+					</div>
+
+				</div>
+
+			</header>
+			<!--Header Section End-->
+
+			<!--Content Area Start-->
+			<div id="content">
+				<!-- slider-hero start here -->
+				<section class="slider-hero inner-banner_info">
+					<div class="container">
+						<h1>about us</h1>
+					</div>
+				</section>
+
+				<!-- slider-hero End here -->
+				<!-- breadcrum-sec start here -->
+				<section class="breadcrum-sec">
+					<div class="container">
+						<ol class="breadcrumb">
+							<li>
+								<a href="#">Home</a>
+							</li>
+							<li class="active">
+								about us
+							</li>
+						</ol>
+					</div>
+				</section>
+				<!-- breadcrum-sec end here -->
+				<section class="who_wrap">
+					<div class="container">
+						<div class="row">
+							<div class="col-xs-12 col-sm-6">
+								<div class="head-global family-oswald">
+									<h2 class="h2">WHo we are</h2>
+									<p>
+										Founded in 2003 by CEO jhon doe, the Chanhassen, loremm ipusm is dedicated to providing members with more value than any other health club.
+									</p>
+
+								</div>
+
+								<div class="who-info">
+									<p>
+										Donec venenatis augue in commodo posuere. Maecenas nibh dolor, dignissim id nunc sed, semper gravida quam. Sed mollis ipsum at ante laoreet, quis rutrum magna mattis. Etiam semper molestie neque sed hendrerit. Suspendisse luctus commodo felis dictum scelerisque.
+
+									</p>
+								</div>
+							</div>
+							<div class="col-xs-12 col-sm-6 zoom">
+								<figure class="img-mobile">
+
+									<img src="assets/images/about-us-image1.jpg" alt="who we are" />
+								</figure>
+							</div>
+
+						</div>
+						<div class="row">
+							<div class="col-xs-12 looking-fit ">
+								<div class="head-global family-oswald clearfix">
+									<h2 class="h2">WELCOME TO FIT&amp;FAB GYM<span>YOUR ONE STOP SOLUTION FOR BEING FIT AND LOOKING FAB</span></h2>
+									<a href="#" class="button-btn small-btn green-bg">learn more</a>
+								</div>
+
+								<p>
+									Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ut nunc sapien. Pellentesque feugiat risus nec fringilla dolor pellentesque aliquet. Cras eget odio a massa viverra  fringilla dolor pellentesque aliquet. Cras eget.
+								</p>
+
+							</div>
+						</div>
+
+						<div class="row top_gap">
+							<div class="col-xs-12 col-sm-3 fit_list-block1">
+								<figure>
+									<img src="assets/images/cardio-icon.png" alt="cardio">
+								</figure>
+								<div class="fit-description1">
+									<h3> BEST CARDIO PROGRAMS </h3>
+									<p>
+										Sed in libero in risus vehicula onc venenatis. Aliquam luctus ante sedies magna convallis malesuada.
+									</p>
+								</div>
+
+							</div>
+							<div class="col-xs-12 col-sm-3 fit_list-block1">
+								<figure>
+									<img src="assets/images/bath-icon.png" alt="cardio">
+								</figure>
+								<div class="fit-description1">
+									<h3> SAUNA BATH AVAILABLE </h3>
+									<p>
+										Sed in libero in risus vehicula onc venenatis. Aliquam luctus ante sedies magna convallis malesuada.
+									</p>
+								</div>
+
+							</div>
+							<div class="col-xs-12 col-sm-3  fit_list-block1">
+								<figure>
+									<img src="assets/images/karate-icon.png" alt="cardio">
+								</figure>
+								<div class="fit-description1">
+									<h3> KARATE CLASSES OPEN</h3>
+									<p>
+										Sed in libero in risus vehicula onc venenatis. Aliquam luctus ante sedies magna convallis malesuada.
+									</p>
+								</div>
+
+							</div>
+							<div class="col-xs-12 col-sm-3  fit_list-block1">
+								<figure>
+									<img src="assets/images/watch-icon.png" alt="cardio">
+								</figure>
+								<div class="fit-description1">
+									<h3>TIME BASE EXERCISE </h3>
+									<p>
+										Sed in libero in risus vehicula onc venenatis. Aliquam luctus ante sedies magna convallis malesuada.
+									</p>
+								</div>
+
+							</div>
+						</div>
+
+					</div>
+
+				</section>
+
+				<!-- success_story_wrap start here -->
+				<section class="success_story_wrap1">
+					<div class="container">
+
+						<div class="row">
+							<div class="col-xs-12 col-sm-10 col-md-8 col-lg-6">
+								<div class="head-global family-oswald ">
+									<h2 class="h2">SECtion with Image on Right side and <span>Text on Left side here</span></h2>
+
+								</div>
+
+								<p>
+									In pellentesque faucibus vestibulum. Nulla at nulla justo, eget lucin blandit. Curabitur vulputate, ligula lacinia scelerisque temporaugue sit amet leo consequat. Loosing Great.
+								</p>
+								<ul class="list-global pack-list ">
+									<li>
+										<i class="fa fa-check-circle-o"></i>Feature Points 1 goes here
+									</li>
+									<li>
+										<i class="fa fa-check-circle-o"></i>Some of bulletted Ponts will appear here
+									</li>
+									<li>
+										<i class="fa fa-check-circle-o"></i>Fit and Fab offers 25% discount for Newly Joined Memebers
+									</li>
+									<li>
+										<i class="fa fa-check-circle-o"></i>Cool Place to do your Hard Workouts
+									</li>
+								</ul>
+
+							</div>
+						</div>
+					</div>
+				</section>
+				<!-- success_story_wrap End here -->
+
+				<!-- about-us-sexy-wrap start here -->
+				<section class="about-us-sexy-wrap">
+					<div class="container">
+						<div class="row">
+							<div class="col-xs-12 col-sm-4 fit_sexy-about">
+								<strong> BEING FIT
+								IS NEW <strong>SEXY</strong></strong>
+								<a href="trainer-detail.html" class="button-btn">JOIN THE FORCE</a>
+
+							</div>
+							<div class="col-xs-12 col-sm-8 founded-wrap">
+								<h3> Founded in 2003 by CEO jhon doe, the Chanhassen, loremm ipusm is dedicated to providing members with more value than any other health club. </h3>
+
+								<p>
+									Donec venenatis augue in commodo posuere. Maecenas nibh dolor, dignissim id nunc sed, semper gravida quam. Sed mollis ipsum at ante laoreet, quis rutrum magna mattis. Etiam semper molestie neque sed hendrerit. Suspendisse luctus commodo felis dictum scelerisque.
+								</p>
+								<div class="row top_gap">
+									<div class="col-xs-12 col-sm-6">
+										<ul class="list-global pack-list ">
+											<li>
+												<i class="fa fa-check-circle-o"></i>Feature Points 1 goes here
+											</li>
+											<li>
+												<i class="fa fa-check-circle-o"></i>Some of bulletted Ponts will appear here
+											</li>
+											<li>
+												<i class="fa fa-check-circle-o"></i>Fit and Fab offers 25% discount
+											</li>
+											<li>
+												<i class="fa fa-check-circle-o"></i>Cool Place to do your Hard Workouts
+											</li>
+										</ul>
+									</div>
+									<div class="col-xs-12 col-sm-6">
+										<ul class="list-global pack-list ">
+											<li>
+												<i class="fa fa-check-circle-o"></i>Feature Points 1 goes here
+											</li>
+											<li>
+												<i class="fa fa-check-circle-o"></i>Some of bulletted Ponts will appear here
+											</li>
+											<li>
+												<i class="fa fa-check-circle-o"></i>Fit and Fab offers 25% discount
+											</li>
+											<li>
+												<i class="fa fa-check-circle-o"></i>Cool Place to do your Hard Workouts
+											</li>
+										</ul>
+									</div>
+								</div>
+
+							</div>
+
+						</div>
+					</div>
+				</section>
+				<!-- about-us-sexy-wrap end here -->
+				<!-- award-wrap start here -->
+				<section class="award-wrap">
+					<div class="container">
+						<div class="head-global family-oswald text-center ">
+							<h2 class="h2">We are proud to have achieved the following awardS</h2>
+
+						</div>
+						<div class="row top_gap">
+							<div class="col-xs-12 col-sm-3 award-list">
+								<figure class="rounded-img"><img src="assets/images/envato-award-1.png" alt="envato" />
+								</figure>
+								<h4>Health Club Awards 2013</h4>
+							</div>
+							<div class="col-xs-12 col-sm-3 award-list">
+								<figure class="rounded-img"><img src="assets/images/envato-award-1.png" alt="envato" />
+								</figure>
+								<h4>National Fitness Awards 2012</h4>
+							</div>
+							<div class="col-xs-12 col-sm-3 award-list">
+								<figure class="rounded-img"><img src="assets/images/envato-award-1.png" alt="envato" />
+								</figure>
+								<h4>Flame Awards 2013</h4>
+							</div>
+							<div class="col-xs-12 col-sm-3 award-list">
+								<figure class="rounded-img"><img src="assets/images/envato-award-1.png" alt="envato" />
+								</figure>
+								<h4>National Fitness Awards 2013</h4>
+							</div>
+
+						</div>
+					</div>
+				</section>
+				<!-- award-wrap end here -->
+			</div>
+			<!--Content Area End-->
+
+			<!--Footer Section Start-->
+			<footer id="footer" class="footer-two secondary-footer">
+				<div class="container">
+					<div class="primary-footer">
+						<div class="row">
+							<div class="col-xs-12 col-sm-6 col-md-3 footer-logo footer-l">
+								<a href="index.html"> <img src="assets/images/home-2_logo.png" alt="footer-logo" /></a>
+								<p>
+									203, Envato Labs, Behind Alis Steet, Melbourne, Australia.
+								</p>
+
+								<span class="mail-id">Email : <a href="mailto:info@fitandfabtheme.com">info@fitandfabtheme.com</a></span>
+
+							</div>
+
+							<div class="col-xs-12 col-sm-6 col-md-4 class-time footer-l">
+								<h4>our classes</h4>
+								<ul class="class-list clearfix">
+									<li>
+										<a href="#"> Fitness Classes </a>
+									</li>
+									<li>
+										<a href="#"> Body Building </a>
+									</li>
+									<li>
+										<a href="#"> Aerobics </a>
+									</li>
+									<li>
+										<a href="#"> Streching Exercise </a>
+									</li>
+									<li>
+										<a href="#"> Yoga Classis </a>
+									</li>
+									<li>
+										<a href="#"> Body Combat </a>
+									</li>
+
+								</ul>
+
+							</div>
+							<div class="col-xs-12 col-sm-6 col-md-3 class-time timing-box footer-l">
+								<h4>our timings</h4>
+								<ul class="class-list clearfix">
+									<li>
+										Monday - Friday <span class="hr"></span> 05AM - 9PM
+									</li>
+									<li>
+										Saturday <span class="hr width-more"></span>  06AM - 5PM
+
+									</li>
+									<li>
+										Sunday <span class="hr width-m"></span> Closed
+									</li>
+
+								</ul>
+
+							</div>
+
+							<div class="col-xs-12 col-sm-6 col-md-2 footer-l">
+								<div class="boxing-inner">
+									<span>$29 OFF</span>
+									<strong>BOXING <span>classes</span></strong>
+
+								</div>
+							</div>
+
+						</div>
+					</div>
+				</div>
+
+				<div class="home-2-footer">
+					<div class="container">
+						<div class="bottom-footer">
+							<div class="row">
+								<div class="col xs-12 col-sm-6 col-lg-7 copy-right">
+									<p>
+										Copyright 2015. All Rights Reserved by Fit &amp; Fab. Design by <a href="#" class="theme-design">Theme Designer</a>
+									</p>
+								</div>
+								<div class="col-xs-12 col-sm-6 col-lg-5">
+									<div class="calling-contact">
+										<span>call us now</span>
+										<a href="#">215 123 4567</a>
+									</div>
+
+									<ul class="media-wrap clearfix">
+										<li>
+											<a href="#" class="facebook"><i class="fa fa-facebook"></i></a>
+										</li>
+										<li>
+											<a href="#" class="facebook"><i class="fa fa-twitter"></i></a>
+										</li>
+										<li>
+											<a href="#" class="facebook"><i class="fa fa-rss"></i></a>
+										</li>
+										<li>
+											<a href="#" class="facebook"><i class="fa fa-google-plus"></i></a>
+										</li>
+										<li>
+											<a href="#" class="facebook"><i class="fa fa fa-linkedin"></i></a>
+										</li>
+										<li>
+											<a href="#" class="facebook"><i class="fa fa-youtube-play"></i></a>
+										</li>
+									</ul>
+
+								</div>
+							</div>
+						</div>
+
+					</div>
+				</div>
+
+			</footer>
+			<!--Footer Section End-->
+
+		</div>
+		<!--Page Wrapper End-->
+		<script type="text/javascript" src="assets/js/jquery-1.11.3.min.js"></script>
+		<script type="text/javascript" src="assets/js/bootstrap.js"></script>
+		<script type="text/javascript" src="assets/js/less.js"></script>
+
+		<!-- revolution Js -->
+		<script type="text/javascript" src="assets/js/jquery.themepunch.tools.min.js"></script>
+		<script type="text/javascript" src="assets/js/jquery.themepunch.revolution.min.js"></script>
+		<script type="text/javascript" src="assets/js/jquery.revolution.js"></script>
+		<!-- revolution Js-->
+		<script type="text/javascript" src="assets/js/owl.carousel.js"></script>
+		<script type="text/javascript" src="assets/js/site.js"></script>
+	</body>
+</html>
